@@ -24,6 +24,7 @@ function Edit() {
    console.log(emp);
    emp.empId = empId
    emp.empName = empName
+   emp.empDesg = empDesg
    emp.empSal = empSalary
    navigate('/')
 

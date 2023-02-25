@@ -26,7 +26,7 @@ Employee.push({
         empId:uniqeId,
         empName,
         empDesg,
-        empSalary:salary
+        empSal:salary
         
         
 })
